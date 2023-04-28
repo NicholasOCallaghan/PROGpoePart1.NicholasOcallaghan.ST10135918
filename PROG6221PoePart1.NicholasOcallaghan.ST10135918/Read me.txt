@@ -1,0 +1,3 @@
+Read me
+
+The Program can be runned from the visual studios
